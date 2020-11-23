@@ -1,0 +1,20 @@
+* {
+    font-family: monospace;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: black;
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+}
